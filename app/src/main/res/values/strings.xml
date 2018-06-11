@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">business card</string>
+    <string name="offerings">offerings</string>
+    <string name="LateNightFood">Late Night Food</string>
+    <string name="VegetarianOptions">Vegetarian Options</string>
+    <string name="FreeDelivery">Free Delivery</string>
+    <string name="menu">menu</string>
+    <string name="pno">8893816816</string>
+    <string name="smoe">cus_care@smokeys.com</string>
+    <string name="smod">1600 Amphitheatre Parkway, Mountain View, CA 94043</string>
+</resources>
